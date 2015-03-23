@@ -1,29 +1,34 @@
 body{
-   background-color: eeeeee;
+  background-color: #FFFFFF;
+  font-family: Cambria, Arial, Helvetica;
 }
 
 .header {
-  background-color: red;
-  color: white;
+  background-color: #FF0000;
+  color: #FFFFFF;
   text-align: center;
-  padding: 10px;
+  padding: 5px;
 }
 
-.toc {
-  font-size: 40px; 
-  line-height: 50px; 
-  text-align: center; 
-  list-style-type: none
-}
-
-li {
-list-style-type: none;  
+.toc li{
+  font-size: 18px; 
+  line-height: 20px; 
+  text-align: left;
+  list-style-type: none;
 }
 
 .topic {
-  font-size: 35px; text-align: center; font-style: oblique; color: #eeeeee; border-radius: 20px; margin: right; background-color: red; 
+  font-size: 20px; 
+  text-align: center; 
+  font-style: oblique; 
+  color: #EEEEEE; 
+  border-radius: 5px; 
+  margin: 10px; 
+  background-color: #FF0000; 
 }
 
 .text {
-  font-size: 20px; padding: 2px; margin: 10px;
+  font-size: 20px; 
+  padding: 2px; 
+  margin: 10px;
 }
