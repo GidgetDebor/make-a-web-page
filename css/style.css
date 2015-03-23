@@ -1,0 +1,29 @@
+body{
+   background-color: eeeeee;
+}
+
+.header {
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.toc {
+  font-size: 40px; 
+  line-height: 50px; 
+  text-align: center; 
+  list-style-type: none
+}
+
+li {
+list-style-type: none;  
+}
+
+.topic {
+  font-size: 35px; text-align: center; font-style: oblique; color: #eeeeee; border-radius: 20px; margin: right; background-color: red; 
+}
+
+.text {
+  font-size: 20px; padding: 2px; margin: 10px;
+}
